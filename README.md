@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a front-end web developer. 
 - 🌱 I’m currently learning Node.JS, NextJS, React, and Express
 - 💞️ I’m looking to collaborate on simple projects 
-- 📫 How to reach me message my github
+- 📫 How to reach me?  Message me on github :)
 
 <!---
 christophermickle/christophermickle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
