@@ -14,7 +14,7 @@ I'm a self taught, front-end developer  specializing in React and the bleeding-e
 - TailwindCSS
 - TypeScript
 
-📫 How to reach me: [your_email@example.com](mailto:your_email@example.com)
+📫 How to reach me: [send an e-mail](mailto:cmickle.dev@gmail.com)
 
 ---
 
